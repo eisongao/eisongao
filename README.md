@@ -3,16 +3,6 @@
 <div> <a href="https://x.com/eisongao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/eisongao" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-<div>  
-<p align="left"> - 🔭 I’m currently working on ... </p>
-<p align="left"> - 🌱 I’m currently learning ... </p>
-<p align="left"> - 👯 I’m looking to collaborate on ... </p>
-<p align="left"> - 🤔 I’m looking for help with ... </p>
-<p align="left"> - 💬 Ask me about ... </p>
-<p align="left"> - 📫 How to reach me: ... </p>
-<p align="left"> - 😄 Pronouns: ... </p>
-<p align="left"> - ⚡ Fun fact: ... </p>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
